@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "name": "harry potter",
+    "author": "J. Rowling",
+    "year": 1997,
+    "genre": "Fantasy"
+  },
+  {
+    "id": 1,
+    "name": "Lord of the Rings",
+    "author": "Tolkien",
+    "year": 1950,
+    "genre": "Fantasy"
+  },
+  {
+    "id": 2,
+    "name": "jojo",
+    "author": "araki",
+    "year": "1987",
+    "genre": "manga"
+  },
+  {
+    "id": 0,
+    "name": "good omens",
+    "author": "neil gaiman",
+    "year": "1986",
+    "genre": "fantasy"
+  }
+]
